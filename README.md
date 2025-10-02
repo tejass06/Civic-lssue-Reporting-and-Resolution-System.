@@ -1,7 +1,7 @@
 # PragatiSetu - A Modern Civic Issue Reporting System 
 PragatiSetu is a full-stack application designed to bridge the communication gap between citizens and municipal authorities for efficient civic issue reporting and resolution.
 
-https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/313d9d20f85c10761ffb429a7bb1d5271390d95f/Login%20Page.png?raw=true
+https://media.discordapp.net/attachments/1423383518397988887/1423383670584246374/Login_Page.png?ex=68e01cd8&is=68decb58&hm=185c826e0fa8f2e362319e76a259d181f57185ae2e3069d48a0cf284548fc1ed&=&format=webp&quality=lossless&width=1489&height=693
 
 https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/313d9d20f85c10761ffb429a7bb1d5271390d95f/admin%20page.png?raw=true
 
