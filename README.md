@@ -35,14 +35,14 @@ PragatiSetu is a full-stack application designed to bridge the communication gap
 
 
 # ✨ Key Features
-For Citizens (Flutter Mobile App)
+✸ For Citizens (Flutter Mobile App)
 
 ✦ Easy Reporting: Intuitive, map-based interface to report issues with photo proof and precise GPS location in under a minute.
 
 
 ✦ Live Status Tracking: Citizens can view the status of their submitted reports from "Pending" to "In Progress" to "Solved".
 
-For Admins & Departments (React Web Portal)
+✸ For Admins & Departments (React Web Portal)
 
 ✦ Secure, Role-Based Authentication: JWT-powered login system for different municipal departments (Road, Garbage, Water) and a Super Admin.
 
