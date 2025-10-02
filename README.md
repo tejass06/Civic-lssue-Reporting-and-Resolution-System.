@@ -42,7 +42,7 @@ For Citizens (Flutter Mobile App)
 
 ✦ Live Status Tracking: Citizens can view the status of their submitted reports from "Pending" to "In Progress" to "Solved".
 
-# ✨ For Admins & Departments (React Web Portal)
+For Admins & Departments (React Web Portal)
 
 ✦ Secure, Role-Based Authentication: JWT-powered login system for different municipal departments (Road, Garbage, Water) and a Super Admin.
 
