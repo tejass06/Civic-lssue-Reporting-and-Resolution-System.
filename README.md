@@ -11,6 +11,12 @@ PragatiSetu is a full-stack application designed to bridge the communication gap
 
 [Department Page](https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/313d9d20f85c10761ffb429a7bb1d5271390d95f/department..1.png?raw=true)
 
+[App HomePage](https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/main/app-1.jpg?raw=true)
+
+[App Report](https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/main/app-2.jpg?raw=true)
+
+[App SideBar](https://github.com/tejass06/Civic-lssue-Reporting-and-Resolution-System./blob/main/app-3.jpg?raw=true)
+
 # ✨ Tech Stack:
 
 ✦ Citizen App: Flutter & Dart 
